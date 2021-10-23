@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 5px;
+}
+
+img{
+    border: 3px solid;
+}
+
+body{
+    background: lightcyan;
+    font-style: italic; 
+}
+
+#content{
+    width: 70%;
+    margin: 10px auto;
+}
+
+header{
+    font-size: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+#img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
